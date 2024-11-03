@@ -8,7 +8,7 @@
                 <img src="https://media.giphy.com/media/xT0xezd8H4B0O3wwA0/giphy.gif" alt="Crypto Mining" width="200">
             </td>
             <td>
-                <img src="https://media.giphy.com/media/8JjUFejiyUQZ2/giphy.gif" alt="Blockchain Animation" width="200">
+                <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGx1MWZjaGthNmZwNm9pOGtrdGRjejl6cjl6Z3VmaDNwN2h4NngyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gykRhiZ9KRj1j3Q3Fi/giphy-downsized-large.gif" width="200">
             </td>
             <td>
                 <a href="https://t.me/AlexsCryptoInsights8778">
